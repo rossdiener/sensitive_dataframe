@@ -1,0 +1,6 @@
+wreckognize/__pycache__/*
+tests/__pycache__/*
+*.pyc
+.cache/*
+.DS_Store
+.DS_Store?
