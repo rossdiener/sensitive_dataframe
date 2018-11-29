@@ -1,3 +1,3 @@
 # wreckognize
 
-This is a repository for learning data de-identification algorithms.
+This is a repository for experimenting with data de-identification algorithms in Python.
