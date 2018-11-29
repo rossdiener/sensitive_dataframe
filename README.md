@@ -1,2 +1,3 @@
-# sensitive_dataframe
-Subclassing the pandas DataFrame so it automatically tracks sensitive data
+# wreckognize
+
+This is a repository for learning data de-identification algorithms.
